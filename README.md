@@ -3,8 +3,12 @@
 A simple but mind-blowing 2D game made with Python.
 
 ## How to Play
-- Arrow keys to move
-- Run away and don't get caught!
+- SPACE / UP: jump over crates, barriers and pits
+- DOWN: slide under the patrol drones
+- Collect shards to force the demon back
+- Stumble and it gains on you
+- ENTER: start the run
+- ESC: quit
 
 ## Screenshots
 
